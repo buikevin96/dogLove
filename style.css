@@ -1,0 +1,17 @@
+.profile {
+	float: left;
+	display: inline-block;
+	width: 30%;
+}
+
+.main {
+	float: left;
+	display: inline-block;
+	width: 50%;
+}
+
+.sidebar {
+	float: left;
+	display: inline-block;
+	width: 20%;
+}
